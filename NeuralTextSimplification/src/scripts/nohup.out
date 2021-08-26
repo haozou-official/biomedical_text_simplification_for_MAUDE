@@ -1,0 +1,8 @@
+/home/risako/torch/install/bin/luajit: translate.lua:132: attempt to index local 'hypothOutFile' (a nil value)
+stack traceback:
+	translate.lua:132: in function 'main'
+	translate.lua:195: in main chunk
+	[C]: in function 'dofile'
+	...sako/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x55a38e06f570
+Check results in /opt/risako/HINF5610/NeuralTextSimplification/results_NTS/result_NTS_epoch11_10.19.t7_5
